@@ -5,7 +5,7 @@ Python Final Project
 ## Files
 - Efsun_code.py
 - simulated_meco_reading_data.csv
-- Efsun_final_report.pdf
+- Efsun_draft.pdf
 - Efsun_AI.pdf
 - Figure_1_fixation_duration_boxplot.png
 - Figure_2_reading_time_distribution.png
