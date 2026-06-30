@@ -1,5 +1,6 @@
-# Reading Patterns in Native vs Heritage Speakers
+# Reading Patterns of Turkish Native Speakers and Turkish Heritage Speakers Living in Poland
 
+## A Computational Analysis Based on Simulated MECO Eye-Tracking Data
 Python Final Project
 
 ## Files
